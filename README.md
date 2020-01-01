@@ -4,4 +4,4 @@ Shape Animator class project using Java Swing and Model-View-Control design prin
 
 See src folder for files.
 
-![Example Image](https://github.com/DFinelli/Shape-Animator/blob/master/Screen%20Shot%202020-01-01%20at%2010.58.19%20AM.png)
+![Example Image](https://github.com/DFinelli/Shape-Animator/blob/master/ExampleAnimation.png)
