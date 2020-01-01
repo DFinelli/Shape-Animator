@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb22b811-c50a-4f15-97d4-800351ddc28a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>go()</find>
+      <find>&quot;&quot;</find>
+      <find>/</find>
+      <find>true</find>
+      <find>JPanel</find>
+      <find>drawing</find>
+      <find>en</find>
+      <find>entry</find>
+      <find>render</find>
+      <find>showW</find>
+      <find>here</find>
+      <find>&quot;here</find>
+      <find>Syste</find>
+      <find>*</find>
+      <find>rgb</find>
+      <find>scale</find>
+      <find>size</find>
+      <find>contain</find>
+      <find>draw</find>
+      <find>panel</find>
+      <find>pause</find>
+      <find>Y can'</find>
+      <find>-5</find>
+      <find>rr =</find>
+      <find>speed</find>
+      <find>innerl</find>
+      <find>tween r</find>
+      <find>tween</find>
+      <find>se</find>
+      <find>set</find>
+    </findStrings>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VnZzoYDUNkXY60wk276ROU38xQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Resources" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/cs5004/animator/util" />
+      <recent name="$PROJECT_DIR$/src/cs5004/animator/view" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.-if testDan.txt -iv visual -speed 20">
+    <configuration name="-if big-bang-big-crunch.txt -iv visual -speed 20" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if big-bang-big-crunch.txt -iv visual -speed 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if buildings.txt -iv visual -speed 20" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if buildings.txt -iv visual -speed 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if testDan.txt -iv visual -speed 20" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if testDan.txt -iv visual -speed 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if toh-3.txt -iv text -o out -speed 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if toh-3.txt -iv text -o out -speed 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if toh-3.txt -iv text -o transcript.txt  -speed 20" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if toh-3.txt -iv text -o transcript -speed 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if toh-5.txt -iv svg -o out -speed 6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if toh-5.txt -iv svg -o out -speed 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if toh-5.txt -iv svg -speed 6" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if toh-5.txt -iv svg -speed 6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if toh-8.txt -iv svg -o out -speed 50" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if toh-8.txt -iv svg -o out -speed 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="-if toh-8.txt -iv svg -o toh-at-20 -speed 20" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-if toh-8.txt -iv svg -o toh-at-20 -speed 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyAnimator" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs5004.animator.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="invalid no filename" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
+      <module name="AS8" />
+      <option name="PROGRAM_PARAMETERS" value="-iv text -o out -speed 2:" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SVGViewTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SVGViewTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SVGViewTest.testTOH3TXT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SVGViewTest" />
+      <option name="METHOD_NAME" value="testTOH3TXT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SVGViewTest.testTOH5TXT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SVGViewTest" />
+      <option name="METHOD_NAME" value="testTOH5TXT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextViewTest.testTOH3TXT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextViewTest" />
+      <option name="METHOD_NAME" value="testTOH3TXT" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextViewTest.testx" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AS8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TextViewTest" />
+      <option name="METHOD_NAME" value="testx" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.-if toh-3.txt -iv text -o transcript.txt  -speed 20" />
+      <item itemvalue="Application.-if toh-8.txt -iv svg -o toh-at-20 -speed 20" />
+      <item itemvalue="Application.-if testDan.txt -iv visual -speed 20" />
+      <item itemvalue="Application.-if big-bang-big-crunch.txt -iv visual -speed 20" />
+      <item itemvalue="Application.-if buildings.txt -iv visual -speed 20" />
+      <item itemvalue="Application.-if toh-3.txt -iv text -o out -speed 2" />
+      <item itemvalue="Application.-if toh-8.txt -iv svg -o out -speed 50" />
+      <item itemvalue="Application.-if toh-5.txt -iv svg -o out -speed 6" />
+      <item itemvalue="Application.-if toh-5.txt -iv svg -speed 6" />
+      <item itemvalue="Application.invalid no filename" />
+      <item itemvalue="Application.EasyAnimator" />
+      <item itemvalue="JUnit.SVGViewTest" />
+      <item itemvalue="JUnit.SVGViewTest.testTOH5TXT" />
+      <item itemvalue="JUnit.TextViewTest.testx" />
+      <item itemvalue="JUnit.SVGViewTest.testTOH3TXT" />
+      <item itemvalue="JUnit.TextViewTest.testTOH3TXT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TextViewTest.testTOH3TXT" />
+        <item itemvalue="JUnit.TextViewTest.testx" />
+        <item itemvalue="JUnit.SVGViewTest" />
+        <item itemvalue="JUnit.SVGViewTest.testTOH5TXT" />
+        <item itemvalue="JUnit.SVGViewTest.testTOH3TXT" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb22b811-c50a-4f15-97d4-800351ddc28a" name="Default Changelist" comment="" />
+      <created>1563906635193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563906635193</updated>
+      <workItem from="1563906636425" duration="4078000" />
+      <workItem from="1563969838116" duration="8320000" />
+      <workItem from="1563994916600" duration="4326000" />
+      <workItem from="1564005571048" duration="3793000" />
+      <workItem from="1564057669906" duration="4641000" />
+      <workItem from="1564063298390" duration="9529000" />
+      <workItem from="1564077391399" duration="15149000" />
+      <workItem from="1564141096752" duration="3320000" />
+      <workItem from="1564150019850" duration="12886000" />
+      <workItem from="1564183065802" duration="488000" />
+      <workItem from="1564183558962" duration="1178000" />
+      <workItem from="1564227008909" duration="5702000" />
+      <workItem from="1564232847789" duration="1892000" />
+      <workItem from="1564234949920" duration="173000" />
+      <workItem from="1564235228846" duration="470000" />
+      <workItem from="1564235817835" duration="1011000" />
+      <workItem from="1564236938027" duration="32000" />
+      <workItem from="1564240987916" duration="2149000" />
+      <workItem from="1564361639377" duration="508000" />
+      <workItem from="1564513635481" duration="2053000" />
+      <workItem from="1564577897744" duration="4825000" />
+      <workItem from="1564598951125" duration="33947000" />
+      <workItem from="1564745181160" duration="21218000" />
+      <workItem from="1564773665162" duration="1709000" />
+      <workItem from="1564833391614" duration="15319000" />
+      <workItem from="1564900303921" duration="29000" />
+      <workItem from="1564900338927" duration="460000" />
+      <workItem from="1564901012627" duration="1711000" />
+      <workItem from="1564902811388" duration="383000" />
+      <workItem from="1564903264611" duration="74000" />
+      <workItem from="1564903342941" duration="17000" />
+      <workItem from="1565193949631" duration="22000" />
+      <workItem from="1565195282299" duration="144000" />
+      <workItem from="1565202740946" duration="19193000" />
+      <workItem from="1565358163780" duration="15106000" />
+      <workItem from="1565438107922" duration="7947000" />
+      <workItem from="1565452783670" duration="1855000" />
+      <workItem from="1565454717839" duration="2430000" />
+      <workItem from="1565460347471" duration="43000" />
+      <workItem from="1565460512325" duration="1318000" />
+      <workItem from="1565461966333" duration="251000" />
+      <workItem from="1565462464075" duration="84000" />
+      <workItem from="1565814448449" duration="888000" />
+      <workItem from="1568895932813" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="211284000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="218" key="#Project_Structure" timestamp="1577891107038">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="218" key="#Project_Structure/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577891107038" />
+    <state x="424" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577892545139">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892545139" />
+    <state x="360" y="151" width="1200" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577891437789">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="360" y="151" width="1200" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577891437789" />
+    <state x="697" y="344" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577892538000">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="697" y="344" key="#com.intellij.ide.util.TreeClassChooserDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892538000" />
+    <state width="1358" height="301" key="GridCell.Tab.0.bottom" timestamp="1577892549683">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.0.bottom/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549683" />
+    <state width="1358" height="301" key="GridCell.Tab.0.center" timestamp="1577892549682">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.0.center/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549682" />
+    <state width="1358" height="301" key="GridCell.Tab.0.left" timestamp="1577892549682">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.0.left/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549682" />
+    <state width="1358" height="301" key="GridCell.Tab.0.right" timestamp="1577892549682">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.0.right/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549682" />
+    <state width="1358" height="301" key="GridCell.Tab.1.bottom" timestamp="1577892549684">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.1.bottom/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549684" />
+    <state width="1358" height="301" key="GridCell.Tab.1.center" timestamp="1577892549683">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.1.center/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549683" />
+    <state width="1358" height="301" key="GridCell.Tab.1.left" timestamp="1577892549683">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.1.left/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549683" />
+    <state width="1358" height="301" key="GridCell.Tab.1.right" timestamp="1577892549683">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1358" height="301" key="GridCell.Tab.1.right/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549683" />
+    <state x="525" y="155" width="1158" height="641" key="IDE.errors.dialog" timestamp="1577892459119">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="525" y="155" width="1158" height="641" key="IDE.errors.dialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892459119" />
+    <state x="630" y="385" key="com.intellij.ide.util.TipDialog" timestamp="1577891091184">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="630" y="385" key="com.intellij.ide.util.TipDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577891091184" />
+    <state x="686" y="454" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1577891135659">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="686" y="454" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577891135659" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AS8_copy$ModelTest_testSameShapeAddMotion.ic" NAME="ModelTest.testSameShapeAddMotion Coverage Results" MODIFIED="1564183445570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AS10$_if_buildings_txt__iv_visual__speed_20.ic" NAME="-if buildings.txt -iv visual -speed 20 Coverage Results" MODIFIED="1577891563118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/AS10$_if_big_bang_big_crunch_txt__iv_visual__speed_20.ic" NAME="-if big-bang-big-crunch.txt -iv visual -speed 20 Coverage Results" MODIFIED="1577891648570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
