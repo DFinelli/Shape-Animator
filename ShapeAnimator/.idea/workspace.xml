@@ -57,10 +57,14 @@
       <find>set</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VnZzoYDUNkXY60wk276ROU38xQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -102,7 +106,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.-if testDan.txt -iv visual -speed 20">
+  <component name="RunManager" selected="Application.-if buildings.txt -iv visual -speed 20">
     <configuration name="-if big-bang-big-crunch.txt -iv visual -speed 20" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="cs5004.animator.view.EasyAnimator" />
       <module name="AS8" />
@@ -353,10 +357,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="560" y="218" key="#Project_Structure/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577891107038" />
-    <state x="424" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577892545139">
+    <state x="424" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577894795857">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="424" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892545139" />
+    <state x="424" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577894795857" />
     <state x="360" y="151" width="1200" height="800" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1577891437789">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
@@ -365,22 +369,22 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="697" y="344" key="#com.intellij.ide.util.TreeClassChooserDialog/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892538000" />
-    <state width="1358" height="301" key="GridCell.Tab.0.bottom" timestamp="1577892549683">
+    <state width="1358" height="142" key="GridCell.Tab.0.bottom" timestamp="1577894819450">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.0.bottom/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549683" />
-    <state width="1358" height="301" key="GridCell.Tab.0.center" timestamp="1577892549682">
+    <state width="1358" height="142" key="GridCell.Tab.0.bottom/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577894819450" />
+    <state width="1358" height="142" key="GridCell.Tab.0.center" timestamp="1577894819449">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.0.center/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549682" />
-    <state width="1358" height="301" key="GridCell.Tab.0.left" timestamp="1577892549682">
+    <state width="1358" height="142" key="GridCell.Tab.0.center/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577894819449" />
+    <state width="1358" height="142" key="GridCell.Tab.0.left" timestamp="1577894819449">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.0.left/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549682" />
-    <state width="1358" height="301" key="GridCell.Tab.0.right" timestamp="1577892549682">
+    <state width="1358" height="142" key="GridCell.Tab.0.left/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577894819449" />
+    <state width="1358" height="142" key="GridCell.Tab.0.right" timestamp="1577894819450">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1358" height="301" key="GridCell.Tab.0.right/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577892549682" />
+    <state width="1358" height="142" key="GridCell.Tab.0.right/251.1103.1440.877/0.23.1920.1057@0.23.1920.1057" timestamp="1577894819450" />
     <state width="1358" height="301" key="GridCell.Tab.1.bottom" timestamp="1577892549684">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
